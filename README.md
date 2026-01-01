@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**chadiboudaher/chadiboudaher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Chadi — a Computer & Communication Engineer based in Lebanon
+Passionate about web and mobile development
 
-Here are some ideas to get you started:
+Currently working on: My portfolio website to showcase projects and skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy: Using modern tools and frameworks to build clean, interactive apps
+
+Fun facts:
+
+  Solved 238+ LeetCode problems
+
+  Always learning new things in 2026
+
+Reach me at: Email or LinkedIn/GitHub

@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Computer and Communication Engineer passionate about **Backend Development** and **ML/DL Engineering**. <br>I love math, and enjoy exploring **Computer Vision** and **Sequence Models**, while building robust systems that bring intelligent models to life.
 
 

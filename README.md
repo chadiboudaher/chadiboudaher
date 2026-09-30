@@ -10,7 +10,9 @@
   computer vision systems, and backend infrastructure using
   <strong>PyTorch, OpenCV, FastAPI, and PostgreSQL</strong>.
 </p>
-
+<p></p>
+<p></p>
+<p></p>
 <img align="right" src="./assets/Red Panda Sprite Sheet.png" width="120" alt="Pixel red panda" />
 
 ### What I'm working on

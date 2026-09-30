@@ -1,4 +1,4 @@
-<img align="left" src="./assets/Fox64.png" width="150" alt="Pixel fox" />
+<img align="left" src="./assets/gif" width="150" alt="Pixel fox" />
 
 ### Hi, I'm Chadi.
 

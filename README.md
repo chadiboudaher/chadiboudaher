@@ -11,4 +11,17 @@
   <strong>PyTorch, OpenCV, FastAPI, and PostgreSQL</strong>.
 </p>
 
-<br clear="left"/>
+<img align="right" src="./assets/Red Panda Sprite Sheet.png" width="120" alt="Pixel red panda" />
+
+### What I'm working on
+
+**Lebanese Arabic Visual Speech Recognition**  
+Studying lip reading and audiovisual speech, including dialect, code-switching, and limited data availability.
+
+**Audio-Visual Corpus Builder**  
+Building a pipeline for video processing, face detection, speech segmentation, active-speaker evidence, human review, and versioned dataset exports.
+
+**ML Experiments**  
+Implementing models, reproducing ideas from papers, comparing results, and studying how models behave beyond a benchmark score.
+
+<br clear="right"/>

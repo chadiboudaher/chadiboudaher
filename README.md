@@ -8,4 +8,3 @@ My thesis focuses on **visual speech recognition for Lebanese Arabic** — a low
 
 Outside the thesis, I build ML experiments, computer vision systems, and backend infrastructure using **PyTorch, OpenCV, FastAPI, and PostgreSQL**.
 
-<br clear="left"/>

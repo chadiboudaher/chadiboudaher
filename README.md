@@ -1,24 +1,11 @@
-<table>
-  <tr>
-    <td width="220" align="center" valign="top">
-      <img src="./assets/Fox64.png" width="180" alt="Pixel fox" />
-    </td>
-    <td valign="top">
+<img align="left" src="./assets/Fox64.png" width="180" alt="Pixel fox" />
 
-<h2>Hi, I'm Chadi.</h2>
+## Hi, I'm Chadi.
 
-<p>
-I'm a master's student in <strong>Computer and Communications Engineering</strong> working at the intersection of <strong>machine learning research, computer vision, speech, and engineering</strong>.
-</p>
+I'm a master's student in **Computer and Communications Engineering** working at the intersection of **machine learning research, computer vision, speech, and engineering**.
 
-<p>
-My thesis focuses on <strong>visual speech recognition for Lebanese Arabic</strong> — a low-resource setting where building and carefully reviewing audiovisual data is as important as training the model itself.
-</p>
+My thesis focuses on **visual speech recognition for Lebanese Arabic** — a low-resource setting where building and carefully reviewing audiovisual data is as important as training the model itself.
 
-<p>
-Outside the thesis, I build ML experiments, computer vision systems, and backend infrastructure using <strong>PyTorch, OpenCV, FastAPI, and PostgreSQL</strong>.
-</p>
+Outside the thesis, I build ML experiments, computer vision systems, and backend infrastructure using **PyTorch, OpenCV, FastAPI, and PostgreSQL**.
 
-    </td>
-  </tr>
-</table>
+<br clear="left"/>

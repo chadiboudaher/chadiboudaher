@@ -5,7 +5,7 @@
 </p>
 
 
-<img align="left" src="./assets/Fox64.gif" width="150" alt="Pixel fox" />
+<img align="left" src="./assets/Fox64.gif" width="190" alt="Pixel fox" />
 
 <p>
   <strong>Hi, I'm Chadi.</strong> I'm a master's student in
@@ -18,17 +18,21 @@
 
 <br clear="left"/>
 
+
 <p align="center">
-  <img src="./gifs_fox/idle.gif" width="58" alt="Idle fox" />
-  &nbsp;&nbsp;
+  <img src="./gifs_fox/idle.gif" width="90" alt="Idle fox" />
+  &nbsp;&nbsp;&nbsp;
   <sub>Computer Engineer · Machine Learning · Computer Vision</sub>
-  &nbsp;&nbsp;
-  <img src="./gifs_fox_left/idle.gif" width="58" alt="Idle fox facing left" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./gifs_fox_left/idle.gif" width="90" alt="Idle fox facing left" />
 </p>
 
 <p align="center">
-  <img src="./gifs_fox/run.gif" width="72" alt="Running fox" />
-  &nbsp;━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━&nbsp;
+  <img src="./gifs_fox/run.gif" width="95" alt="Running fox" />
+  <img src="./gifs_fox/run.gif" width="95" alt="Running fox" />
+  <img src="./gifs_fox/run.gif" width="95" alt="Running fox" />
+  <img src="./gifs_fox/run.gif" width="95" alt="Running fox" />
+  <img src="./gifs_fox/run.gif" width="95" alt="Running fox" />
 </p>
 
 Tools
@@ -56,8 +60,8 @@ Tools
 
 <table>
   <tr>
-    <td width="95" align="center" valign="middle">
-      <img src="./gifs_red_panda/stand-up.gif" width="72" alt="Red panda standing up" />
+    <td width="130" align="center" valign="middle">
+      <img src="./gifs_red_panda/stand-up.gif" width="105" alt="Red panda standing up" />
     </td>
     <td align="center" valign="middle">
       <h3>PyTorch appreciation corner</h3>
@@ -70,15 +74,18 @@ Tools
       <br><br>
       <strong>PyTorch is usually where that happens.</strong>
     </td>
-    <td width="95" align="center" valign="middle">
-      <img src="./gifs_red_panda_left/stand-up.gif" width="72" alt="Red panda standing up facing left" />
+    <td width="130" align="center" valign="middle">
+      <img src="./gifs_red_panda_left/stand-up.gif" width="105" alt="Red panda standing up facing left" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  &nbsp;━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━&nbsp;
-  <img src="./gifs_red_panda_left/run.gif" width="72" alt="Running red panda" />
+  <img src="./gifs_red_panda/run.gif" width="95" alt="Running red panda" />
+  <img src="./gifs_red_panda/run.gif" width="95" alt="Running red panda" />
+  <img src="./gifs_red_panda/run.gif" width="95" alt="Running red panda" />
+  <img src="./gifs_red_panda/run.gif" width="95" alt="Running red panda" />
+  <img src="./gifs_red_panda/run.gif" width="95" alt="Running red panda" />
 </p>
 
 Selected work
@@ -92,19 +99,20 @@ What I'm working on
 - Hands-on ML experiments — implementing models, reproducing ideas from papers, comparing results, and understanding why systems succeed or fail.
 
 <p align="center">
-  <img src="./gifs_red_panda/stand-up.gif" width="58" alt="Red panda" />
+  <img src="./gifs_red_panda/stand-up.gif" width="85" alt="Red panda" />
   &nbsp;&nbsp;
-  <img src="./gifs_fox/walk.gif" width="58" alt="Walking fox" />
+  <img src="./gifs_fox/walk.gif" width="85" alt="Walking fox" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./gifs_fox_left/walk.gif" width="58" alt="Walking fox facing left" />
+  <img src="./gifs_fox_left/walk.gif" width="85" alt="Walking fox facing left" />
   &nbsp;&nbsp;
-  <img src="./gifs_red_panda_left/stand-up.gif" width="58" alt="Red panda facing left" />
+  <img src="./gifs_red_panda_left/stand-up.gif" width="85" alt="Red panda facing left" />
 </p>
 
 
 <p align="center">
-  <img src="./gifs_fox/lie-down.gif" width="72" alt="Sleeping fox" />
-  <img src="./gifs_red_panda/lie-down.gif" width="72" alt="Sleeping red panda" />
+  <img src="./gifs_fox/lie-down.gif" width="110" alt="Sleeping fox" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./gifs_red_panda/lie-down.gif" width="110" alt="Sleeping red panda" />
 </p>
 
 <h3 align="center">Come say hi</h3>

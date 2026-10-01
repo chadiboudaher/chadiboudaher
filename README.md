@@ -1,47 +1,120 @@
+<h1 align="center">Chadi Boudaher</h1>
+
+<p align="center">
+  <strong>Computer Engineer · Machine Learning · Computer Vision</strong>
+</p>
+
+<p align="center">
+  <em>From video frames to language, through the math and engineering in between.</em>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/chadiboudaher1/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:chadiboudaher7@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/chadiboudaher?tab=repositories">Projects</a>
+</p>
+
+
 <img align="left" src="./assets/Fox64.gif" width="150" alt="Pixel fox" />
 
-# Hi, I'm Chadi 👋
-
-I'm a master's student in **Computer and Communications Engineering** working at the intersection of **machine learning research, computer vision, speech, and engineering**. Outside the thesis, I build ML experiments, computer vision systems, and backend infrastructure.
+<p>
+  <strong>Hi, I'm Chadi.</strong> I'm a master's student in
+  <strong>Computer and Communications Engineering</strong> working at the
+  intersection of <strong>machine learning research, computer vision, speech,
+  and engineering</strong>. Outside the thesis, I build ML experiments,
+  computer vision systems, and backend infrastructure using
+  <strong>PyTorch, OpenCV, FastAPI, and PostgreSQL</strong>.
+</p>
 
 <br clear="left"/>
 
-<img align="right" src="./assets/Red-Panda-Sprite.png" width="120" alt="Pixel red panda" />
 
-## 🔭 What I'm working on
+<img align="right" src="./gifs_red_panda/row1.gif" width="120" alt="Animated red panda" />
 
-**Lebanese Arabic Visual Speech Recognition**
-Studying lip reading and audiovisual speech, with a focus on dialect, code-switching, and limited data availability.
+<h3>What I'm working on</h3>
 
-**Audio-Visual Corpus Builder**
-A pipeline covering video processing, face detection, speech segmentation, active-speaker evidence, human review, and versioned dataset exports.
+<strong>Lebanese Arabic Visual Speech Recognition</strong>
 
-**ML Experiments**
-Implementing models, reproducing ideas from papers, comparing results, and studying how models behave beyond a benchmark score.
+Studying lip reading and audiovisual speech, including the challenges of dialect, code-switching, and limited data availability.
 
+
+
+<strong>Audio-Visual Corpus Builder</strong>
+
+Building a research pipeline for video processing, face detection, speech segmentation, active-speaker evidence, human review, and versioned dataset exports.
+
+
+
+<strong>Hands-on ML Experiments</strong>
+
+Implementing models, comparing results, and exploring why systems work — not just what score they achieve.
 <br clear="right"/>
 
-## 🛠️ Tools I use
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img align="left" src="./gifs_fox/row2.gif" width="120" alt="Animated pixel fox" />
 
-## 📌 Featured projects
+<h3>Selected work</h3>
 
-<!-- Replace with your own repos, or pin them on your profile instead -->
-| Project | Description |
-| --- | --- |
-| [project-name](https://github.com/your-username/project-name) | One-line description of what it does |
-| [project-name](https://github.com/your-username/project-name) | One-line description of what it does |
+<strong><a href="https://github.com/chadiboudaher/10000-hours-ml">10,000 Hours of ML</a></strong>
 
-## 📫 Get in touch
+A public home for deliberate practice, implementations, experiments, and research notes across machine learning and deep learning.
 
-<!-- Fill in whichever you want to share and delete the rest -->
-- LinkedIn: [your-link](https://linkedin.com/in/your-handle)
-- Email: your.email@example.com
-- Google Scholar / personal site: [your-link](https://example.com)
 
-<sub>Always happy to chat about speech, vision, and low-resource ML.</sub>
+
+<strong>ML & Deep Learning with PyTorch</strong>
+
+Model implementations and practical experiments covering neural networks, computer vision, sequence models, and classical machine learning.
+
+
+
+<strong>Audio-Visual Corpus Builder</strong>
+
+A pipeline for collecting and processing audiovisual data for Lebanese Arabic visual speech recognition.
+<br clear="left"/>
+
+
+<img align="right" src="./gifs_red_panda/row3.gif" width="115" alt="Animated red panda" />
+
+<h3>Tools I reach for</h3>
+
+<strong>ML / AI</strong> — Python · PyTorch · scikit-learn
+
+<strong>Vision & Media</strong> — OpenCV · FFmpeg
+
+<strong>Data</strong> — NumPy · pandas · Matplotlib
+
+<strong>Backend</strong> — FastAPI · PostgreSQL
+
+<strong>Engineering</strong> — Docker · Git · Linux
+<br clear="right"/>
+
+
+<img align="left" src="./gifs_fox/row4.gif" width="105" alt="Animated pixel fox" />
+
+<h3>What I'm exploring</h3>
+
+Visual speech recognition · Multimodal learning · Computer vision · Sequence models · Low-resource speech technology · Deep learning systems
+<br clear="left"/>
+
+
+
+
+<p align="center">
+  <img src="./gifs_fox/row1.gif" width="80" alt="Animated fox" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./gifs_red_panda/row2.gif" width="80" alt="Animated red panda" />
+</p>
+
+<p align="center">
+  <strong>Still learning. Still building.</strong>
+</p>
+
+<p align="center">
+  Interested in machine learning research, computer vision, and systems for low-resource speech technology.
+</p>
+
+<p align="center">
+  <a href="mailto:chadiboudaher7@gmail.com">Let's connect</a>
+</p>

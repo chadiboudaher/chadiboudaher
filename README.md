@@ -73,9 +73,6 @@ Outside the thesis, I build ML experiments, computer vision systems, and backend
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="48" alt="PyTorch logo" />
-  &nbsp;&nbsp;
-  🔥
-  &nbsp;&nbsp;
 
   <img src="./gifs_red_panda_left/stand-up.gif" width="115" alt="Red panda facing left" />
 </p>

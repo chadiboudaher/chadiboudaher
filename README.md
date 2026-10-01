@@ -71,23 +71,30 @@ Outside the thesis I build ML experiments, computer vision systems, and backend 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<table>
-  <tr>
-    <td width="130" align="center" valign="middle">
-      <img src="./gifs_red_panda/stand-up.gif" width="105" alt="Red panda" />
-    </td>
-    <td align="center" valign="middle">
-      <h3>PyTorch appreciation corner</h3>
-      Most of my learning happens by building the model myself, breaking something,
-      checking tensor shapes, fixing it, and trying again.
-      <br><br>
-      <a href="https://pytorch.org/"><strong>PyTorch is usually where that happens.</strong></a>
-    </td>
-    <td width="130" align="center" valign="middle">
-      <img src="./gifs_red_panda_left/stand-up.gif" width="105" alt="Red panda facing left" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=130&section=header&text=PyTorch%20Appreciation%20Corner&fontSize=30&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="PyTorch Appreciation Corner" />
+</p>
+
+<p align="center">
+  <img src="./gifs_red_panda/stand-up.gif" width="100" alt="Red panda" />
+  &nbsp;&nbsp;&nbsp;<font size="6">🔥</font>&nbsp;&nbsp;&nbsp;
+  <img src="./gifs_red_panda_left/stand-up.gif" width="100" alt="Red panda facing left" />
+</p>
+
+<p align="center">
+  <i>Build the model. Break something. Check the tensor shapes.<br>
+  Fix it. Try again.</i>
+</p>
+
+<p align="center">
+  <a href="https://pytorch.org/">
+    <img src="https://img.shields.io/badge/Usually%20where%20that%20happens-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=70&section=footer" width="100%" alt="" />
+</p>
 
 ---
 

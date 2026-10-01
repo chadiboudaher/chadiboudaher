@@ -64,38 +64,34 @@ Outside the thesis, I build ML experiments, computer vision systems, and backend
 
 <br>
 
-<table>
-<tr>
-<td width="115" align="center">
+<br>
 
-<img src="./gifs_red_panda/stand-up.gif" width="100" />
+<h3 align="center">PyTorch appreciation corner</h3>
 
-</td>
+<p align="center">
+  <img src="./gifs_red_panda/stand-up.gif" width="115" alt="Red panda" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-<td align="center">
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="48" alt="PyTorch logo" />
+  &nbsp;&nbsp;
+  🔥
+  &nbsp;&nbsp;
 
-### PyTorch appreciation corner
+  <img src="./gifs_red_panda_left/stand-up.gif" width="115" alt="Red panda facing left" />
+</p>
 
-<a href="https://pytorch.org/">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</a>
+<p align="center">
+  <em>
+    Build the model. Break something. Check the tensor shapes.<br>
+    Fix it. Try again.
+  </em>
+</p>
 
-<br><br>
+<p align="center">
+  <strong>Most of my learning happens here.</strong>
+</p>
 
-*Build the model. Break something. Check the tensor shapes.*  
-*Fix it. Try again.*
-
-**Most of my learning happens here.**
-
-</td>
-
-<td width="115" align="center">
-
-<img src="./gifs_red_panda_left/stand-up.gif" width="100" />
-
-</td>
-</tr>
-</table>
+<br>
 
 <br>
 
